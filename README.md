@@ -4,6 +4,11 @@
 
 Malayalam sticker packs for WhatsApp — dialogues, reactions and fun stickers in Malayalam. Originally released on the Google Play Store.
 
+
+## The story
+
+WhatsApp introduced the sticker feature on November 25, 2018. Back then, WhatsApp had no way to create stickers or search for them the way it does today. To add sticker packs, you needed a separate app. That is why WhatsApp itself added support for third-party sticker apps. That is how, together with my friend RedLizard, I created this sticker pack and published it on the Play Store on November 1, 2018. It was the first Malayalam WhatsApp sticker pack app. That is also why it crossed 1 lakh+ downloads. I kept adding packs and updating the app until July 2020. After WhatsApp added built-in sticker pack creation, I stopped updating the app. Later, in 2024, it was removed from the Play Store. So I am sharing this here purely out of nostalgia. You probably won't find any practical use for it now. Thank you.
+
 ## Packs
 
 **46 packs · 1186 stickers**
