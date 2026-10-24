@@ -13,9 +13,9 @@ Malayalam sticker packs for WhatsApp — dialogues, reactions and fun stickers i
 - **DEONISM-3** — 29 stickers
 - **Arjyou pack** — 29 stickers
 - **Arjyou pack** — 15 stickers
-- **Arjyou ** — 29 stickers
-- **കുമ്പളങ്ങി   നൈറ്റ്സ്** — 29 stickers
-- **കുമ്പളങ്ങി   നൈറ്റ്സ്** — 30 stickers
+- **Arjyou** — 29 stickers
+- **കുമ്പളങ്ങി നൈറ്റ്സ്** — 29 stickers
+- **കുമ്പളങ്ങി നൈറ്റ്സ്** — 30 stickers
 - **ജസ്റ്റ് ഫോർ ഫൺ** — 30 stickers
 - **ജസ്റ്റ് ഫോർ ഫൺ** — 30 stickers
 - **ജസ്റ്റ് ഫോർ ഫൺ** — 30 stickers
@@ -26,30 +26,30 @@ Malayalam sticker packs for WhatsApp — dialogues, reactions and fun stickers i
 - **കരിക്ക് 😘** — 30 stickers
 - **തേരാ പാരാ😘** — 22 stickers
 - **popular malayalam dialogues** — 30 stickers
-- ** malayalam dialogues** — 30 stickers
-- ** malayalam dialogues** — 18 stickers
-- ** കടിലൻ ഡയലോഗുകൾ** — 30 stickers
-- ** കിടിലൻ ഡയലോഗുകൾ** — 30 stickers
-- ** കിടിലൻ ഡയലോഗുകൾ** — 30 stickers
-- **96 ** — 30 stickers
+- **malayalam dialogues** — 30 stickers
+- **malayalam dialogues** — 18 stickers
+- **കടിലൻ ഡയലോഗുകൾ** — 30 stickers
+- **കിടിലൻ ഡയലോഗുകൾ** — 30 stickers
+- **കിടിലൻ ഡയലോഗുകൾ** — 30 stickers
+- **96** — 30 stickers
 - **96** — 23 stickers
 - **മലയാളം മീം** — 30 stickers
 - **KEERTHI SURESH** — 12 stickers
-- **ടോവിനോ ** — 18 stickers
-- **ALIA BHATT ** — 29 stickers
-- **MINIONS ** — 29 stickers
-- ** MINIONS ** — 29 stickers
+- **ടോവിനോ** — 18 stickers
+- **ALIA BHATT** — 29 stickers
+- **MINIONS** — 29 stickers
+- **MINIONS** — 29 stickers
 - **പോളി ട്രിക്ക്‌സ്** — 11 stickers
-- ** ചളി മലയാളം** — 28 stickers
+- **ചളി മലയാളം** — 28 stickers
 - **ചളി മലയാളം 2** — 30 stickers
-- ** ചളി മലയാളം** — 30 stickers
+- **ചളി മലയാളം** — 30 stickers
 - **TOM AND JERRY** — 29 stickers
 - **TOM AND JERRY 2** — 10 stickers
-- ** CUTE BABIES ** — 30 stickers
-- ** CUTE BABIES 2** — 30 stickers
-- ** MR BEAN** — 19 stickers
+- **CUTE BABIES** — 30 stickers
+- **CUTE BABIES 2** — 30 stickers
+- **MR BEAN** — 19 stickers
 - **ദശമൂലം ദാമു** — 18 stickers
-- ** മംഗ്ലീഷ് പാക്ക്** — 11 stickers
+- **മംഗ്ലീഷ് പാക്ക്** — 11 stickers
 - **GAME OF THRONES** — 26 stickers
 - **CHE-GUEVARA** — 26 stickers
 - **COUPLE IN LOVE** — 30 stickers
