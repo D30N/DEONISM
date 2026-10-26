@@ -1,0 +1,11 @@
+package com.facebook.ads.redexgen.X;
+
+/* renamed from: com.facebook.ads.redexgen.X.Qh, reason: case insensitive filesystem */
+/* loaded from: assets/audience_network.dex */
+public interface InterfaceC0746Qh {
+    public static final String A00 = InterfaceC0746Qh.class.getSimpleName();
+
+    QV A4N(QW qw);
+
+    void A59();
+}

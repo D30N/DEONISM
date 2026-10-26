@@ -1,0 +1,5302 @@
+{
+  "android_play_store_link": "https://play.google.com/store/apps/details?id=com.r3dliz4rd.deonism",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "DEONISM",
+      "publisher": "R3DLIZ4RD",
+      "tray_image_file": "logo.png",
+      "publisher_email":"r3dliz4rd@hi2.in",
+      "publisher_website": "",
+      "privacy_policy_website": "https://appinfocenter.blogspot.com/2019/02/privacy-policy.html",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["🎉","✨"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["🍵","😌"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": ["🔋","😵"]
+        }
+      ]
+    },
+	{
+      "identifier": "2",
+      "name": "DEONISM 2",
+      "publisher": "  DEON  ",
+      "tray_image_file": "logo.png",
+      "publisher_email":"r3dliz4rd@hi2.in",
+      "publisher_website": "",
+      "privacy_policy_website": "https://appinfocenter.blogspot.com/2019/02/privacy-policy.html",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["🍵","😌"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": ["🔋","😵"]
+        }
+      ]
+    },
+    {
+      "identifier": "8",
+      "name": "DEONISM-3",
+      "publisher": "DEONISM",
+      "tray_image_file": "logo.png",
+      "publisher_email":"r3dliz4rd@hi2.in",
+      "publisher_website": "",
+      "privacy_policy_website": "https://appinfocenter.blogspot.com/2019/02/privacy-policy.html",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["🎉","✨"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["🍵","😌"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": ["🔋","😵"]
+        }
+      ]
+    },
+    {
+      "identifier": "67",
+      "name": "Arjyou pack",
+      "publisher": "DEONISM",
+      "tray_image_file": "logo.png",
+      "publisher_email":"r3dliz4rd@hi2.in",
+      "publisher_website": "",
+      "privacy_policy_website": "https://appinfocenter.blogspot.com/2019/02/privacy-policy.html",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["🎉","✨"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["🍵","😌"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": ["🔋","😵"]
+        }
+      ]
+    },
+    {
+      "identifier": "69",
+      "name": "Arjyou pack",
+      "publisher": "DEONISM",
+      "tray_image_file": "logo.png",
+      "publisher_email":"r3dliz4rd@hi2.in",
+      "publisher_website": "",
+      "privacy_policy_website": "https://appinfocenter.blogspot.com/2019/02/privacy-policy.html",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😡","😤"]
+        }
+      ]
+    },
+    {
+      "identifier": "68",
+      "name": "Arjyou ",
+      "publisher": "DEONISM",
+      "tray_image_file": "logo.png",
+      "publisher_email":"r3dliz4rd@hi2.in",
+      "publisher_website": "",
+      "privacy_policy_website": "https://appinfocenter.blogspot.com/2019/02/privacy-policy.html",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["🎉","✨"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["🍵","😌"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": ["🔋","😵"]
+        }
+      ]
+    },
+    {
+      "identifier": "64",
+      "name": "കുമ്പളങ്ങി   നൈറ്റ്സ്",
+      "publisher": "ഡിയോണിസം ",
+      "tray_image_file": "logo.png",
+      "publisher_email":"r3dliz4rd@hi2.in",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["🎉","✨"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["🍵","😌"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": ["🔋","😵"]
+        }
+]
+    },
+{
+      "identifier": "65",
+      "name": "കുമ്പളങ്ങി   നൈറ്റ്സ്",
+      "publisher": "ഡിയോണിസം ",
+      "tray_image_file": "logo.png",
+      "publisher_email":"r3dliz4rd@hi2.in",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["🎉","✨"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["🍵","😌"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": ["🔋","😵"]
+        }
+		]
+    },
+	{
+      "identifier": "60",
+      "name": "ജസ്റ്റ് ഫോർ ഫൺ",
+      "publisher": "ഡിയോണിസം ",
+      "tray_image_file": "logo.png",
+      "publisher_email":"r3dliz4rd@hi2.in",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["🎉","✨"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["🍵","😌"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": ["🔋","😵"]
+        }
+		]
+    },
+	{
+      "identifier": "61",
+      "name": "ജസ്റ്റ് ഫോർ ഫൺ",
+      "publisher": "ഡിയോണിസം ",
+      "tray_image_file": "logo.png",
+      "publisher_email":"r3dliz4rd@hi2.in",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["🎉","✨"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["🍵","😌"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": ["🔋","😵"]
+        }
+		]
+    },
+	{
+      "identifier": "62",
+      "name": "ജസ്റ്റ് ഫോർ ഫൺ",
+      "publisher": "ഡിയോണിസം ",
+      "tray_image_file": "logo.png",
+      "publisher_email":"r3dliz4rd@hi2.in",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["🎉","✨"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["🍵","😌"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": ["🔋","😵"]
+        }
+		]
+    },
+{
+      "identifier": "63",
+      "name": "ജസ്റ്റ് ഫോർ ഫൺ",
+      "publisher": "ഡിയോണിസം ",
+      "tray_image_file": "logo.png",
+      "publisher_email":"r3dliz4rd@hi2.in",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["🎉","✨"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["🍵","😌"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": ["🔋","😵"]
+        }
+		]
+    },
+{
+      "identifier": "66",
+      "name": "റാണ്ടം പാക്ക്",
+      "publisher": "ഡിയോണിസം ",
+      "tray_image_file": "logo.png",
+      "publisher_email":"r3dliz4rd@hi2.in",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["🎉","✨"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["🍵","😌"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": ["🔋","😵"]
+        }
+		]
+    },
+
+
+    {
+      "identifier": "7",
+      "name": "DEONISM SPECIAL PACK",
+      "publisher": "DEONISM",
+      "tray_image_file": "logo.png",
+      "publisher_email":"r3dliz4rd@hi2.in",
+      "publisher_website": "",
+      "privacy_policy_website": "https://appinfocenter.blogspot.com/2019/02/privacy-policy.html",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["🤔","😐"]
+        }
+      ]
+    },
+    {
+      "identifier": "29",
+      "name": "കരിക്ക് 😘",
+      "publisher": "DEONISM",
+      "tray_image_file": "logo.png",
+      "publisher_email":"r3dliz4rd@hi2.in",
+      "publisher_website": "",
+      "privacy_policy_website": "https://appinfocenter.blogspot.com/2019/02/privacy-policy.html",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["🎉","✨"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["🍵","😌"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": ["🔋","😵"]
+        }
+      ]
+    },
+    {
+      "identifier": "36",
+      "name": "കരിക്ക് 😘",
+      "publisher": "DEONISM",
+      "tray_image_file": "logo.png",
+      "publisher_email":"r3dliz4rd@hi2.in",
+      "publisher_website": "",
+      "privacy_policy_website": "https://appinfocenter.blogspot.com/2019/02/privacy-policy.html",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["🎉","✨"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["🍵","😌"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": ["🔋","😵"]
+        }
+      ]
+    },
+    {
+      "identifier": "37",
+      "name": "തേരാ പാരാ😘",
+      "publisher": "DEONISM",
+      "tray_image_file": "logo.png",
+      "publisher_email":"r3dliz4rd@hi2.in",
+      "publisher_website": "",
+      "privacy_policy_website": "https://appinfocenter.blogspot.com/2019/02/privacy-policy.html",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["🎉","✨"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["🖐","👋"]
+        }
+      ]
+    },
+    {
+      "identifier": "32",
+      "name": "popular malayalam dialogues",
+      "publisher": "DEONISM",
+      "tray_image_file": "logo.png",
+      "publisher_email":"r3dliz4rd@hi2.in",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["🎉","✨"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["🍵","😌"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": ["🔋","😵"]
+        }
+      ]
+    },
+    {
+      "identifier": "42",
+      "name": " malayalam dialogues",
+      "publisher": "DEONISM",
+      "tray_image_file": "logo.png",
+      "publisher_email":"r3dliz4rd@hi2.in",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "https://appinfocenter.blogspot.com/2019/02/privacy-policy.html",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["🎉","✨"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["🍵","😌"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": ["🔋","😵"]
+        }
+      ]
+    },
+    {
+      "identifier": "43",
+      "name": " malayalam dialogues",
+      "publisher": "DEONISM",
+      "tray_image_file": "logo.png",
+      "publisher_email":"r3dliz4rd@hi2.in",
+      "publisher_website": "",
+      "privacy_policy_website": "https://appinfocenter.blogspot.com/2019/02/privacy-policy.html",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["🎉","✨"]
+        }
+      ]
+    },
+    {
+      "identifier": "44",
+      "name": " കടിലൻ ഡയലോഗുകൾ",
+      "publisher": "DEONISM",
+      "tray_image_file": "logo.png",
+      "publisher_email":"r3dliz4rd@hi2.in",
+      "publisher_website": "",
+      "privacy_policy_website": "https://appinfocenter.blogspot.com/2019/02/privacy-policy.html",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["🎉","✨"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["🍵","😌"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": ["🔋","😵"]
+        }
+      ]
+    },
+    {
+      "identifier": "45",
+      "name": " കിടിലൻ ഡയലോഗുകൾ",
+      "publisher": "ഡിയോണിസം",
+      "tray_image_file": "logo.png",
+      "publisher_email":"r3dliz4rd@hi2.in",
+      "publisher_website": "",
+      "privacy_policy_website": "https://appinfocenter.blogspot.com/2019/02/privacy-policy.html",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["🎉","✨"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["🍵","😌"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": ["🔋","😵"]
+        }
+      ]
+    },
+    {
+      "identifier": "46",
+      "name": " കിടിലൻ ഡയലോഗുകൾ",
+      "publisher": "ഡിയോണിസം",
+      "tray_image_file": "logo.png",
+      "publisher_email":"r3dliz4rd@hi2.in",
+      "publisher_website": "",
+      "privacy_policy_website": "https://appinfocenter.blogspot.com/2019/02/privacy-policy.html",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["🎉","✨"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["🍵","😌"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": ["🔋","😵"]
+        }
+      ]
+    },
+    {
+      "identifier": "12",
+      "name": "96 ",
+      "publisher": "R3DLIZ4RD  ",
+      "tray_image_file": "logo.png",
+      "publisher_email":"r3dliz4rd@hi2.in",
+      "publisher_website": "",
+      "privacy_policy_website": "https://appinfocenter.blogspot.com/2019/02/privacy-policy.html",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["🎉","✨"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["🍵","😌"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": ["🔋","😵"]
+        }
+      ]
+    },
+    {
+      "identifier": "13",
+      "name": "96",
+      "publisher": " R3DLIZ4RD",
+      "tray_image_file": "logo.png",
+      "publisher_email":"r3dliz4rd@hi2.in",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["🎉","✨"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["📱","😦"]
+        }
+      ]
+    },
+    {
+      "identifier": "31",
+      "name": "മലയാളം മീം",
+      "publisher": "ഡിയോണിസം",
+      "tray_image_file": "logo.png",
+      "publisher_email":"r3dliz4rd@hi2.in",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["🎉","✨"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["🍵","😌"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": ["🔋","😵"]
+        }
+      ]
+    },
+    {
+      "identifier": "22",
+      "name": "KEERTHI SURESH",
+      "publisher": "ഡിയോണിസം",
+      "tray_image_file": "logo.png",
+      "publisher_email":"r3dliz4rd@hi2.in",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😡","😠"]
+        }
+      ]
+    },
+    {
+      "identifier": "28",
+      "name": "ടോവിനോ ",
+      "publisher": "ഡിയോണിസം",
+      "tray_image_file": "logo.png",
+      "publisher_email":"r3dliz4rd@hi2.in",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["🎉","✨"]
+        }
+      ]
+    },
+    {
+      "identifier": "3",
+      "name": "ALIA BHATT ",
+      "publisher": " R3DLIZ4RD   ",
+      "tray_image_file": "logo.png",
+      "publisher_email":"r3dliz4rd@hi2.in",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["🎉","✨"]
+        },{
+          "image_file": "20.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["🍵","😌"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": ["🔋","😵"]
+        }
+      ]
+	  },
+    {
+      "identifier": "24",
+      "name": "MINIONS ",
+      "publisher": "R3DLIZ4RD",
+      "tray_image_file": "logo.png",
+      "publisher_email":"r3dliz4rd@hi2.in",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["🎉","✨"]
+        },{
+          "image_file": "20.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["🍵","😌"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": ["🔋","😵"]
+        }
+      ]
+    },
+    {
+      "identifier": "23",
+      "name": " MINIONS ",
+      "publisher": "R3DLIZ4RD ",
+      "tray_image_file": "logo.png",
+      "publisher_email":"r3dliz4rd@hi2.in",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["🎉","✨"]
+        },{
+          "image_file": "20.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["🍵","😌"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": ["🔋","😵"]
+        }
+      ]
+    },
+
+    {
+      "identifier": "21",
+      "name": "പോളി ട്രിക്ക്‌സ്",
+      "publisher": "ഡിയോണിസം ",
+      "tray_image_file": "logo.png",
+      "publisher_email":"r3dliz4rd@hi2.in",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😱","😵"]
+        }
+      ]
+    },
+    {
+      "identifier": "18",
+      "name": " ചളി മലയാളം",
+      "publisher": " ഡിയോണിസം ",
+      "tray_image_file": "logo.png",
+      "publisher_email":"r3dliz4rd@hi2.in",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["🎉","✨"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["🍵","😌"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": ["🔋","😵"]
+        }
+      ]
+    },
+    {
+      "identifier": "17",
+      "name": "ചളി മലയാളം 2",
+      "publisher": "  ഡിയോണിസം   ",
+      "tray_image_file": "logo.png",
+      "publisher_email":"r3dliz4rd@hi2.in",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["🎉","✨"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["🍵","😌"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": ["🔋","😵"]
+        }
+      ]
+    },
+    {
+      "identifier": "16",
+      "name": " ചളി മലയാളം",
+      "publisher": "ഡിയോണിസം",
+      "tray_image_file": "logo.png",
+      "publisher_email":"r3dliz4rd@hi2.in",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["🎉","✨"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["🍵","😌"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": ["🔋","😵"]
+        }
+      ]
+    },
+    {
+      "identifier": "20",
+      "name": "TOM AND JERRY",
+      "publisher": "R3DLIZ4RD",
+      "tray_image_file": "logo.png",
+      "publisher_email":"r3dliz4rd@hi2.in",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["🎉","✨"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["🍵","😌"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": ["🔋","😵"]
+        }
+      ]
+    },
+    {
+      "identifier": "19",
+      "name": "TOM AND JERRY 2",
+      "publisher": " R3DLIZ4RD",
+      "tray_image_file": "logo.png",
+      "publisher_email":"r3dliz4rd@hi2.in",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["🤔","😐"]
+        }
+      ]
+    },
+    {
+      "identifier": "15",
+      "name": " CUTE BABIES ",
+      "publisher": " R3DLIZ4RD ",
+      "tray_image_file": "logo.png",
+      "publisher_email":"r3dliz4rd@hi2.in",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["🎉","✨"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["🍵","😌"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": ["🔋","😵"]
+        }
+      ]
+    },
+    {
+      "identifier": "14",
+      "name": " CUTE BABIES 2",
+      "publisher": "R3DLIZ4RD ",
+      "tray_image_file": "logo.png",
+      "publisher_email":"r3dliz4rd@hi2.in",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["🎉","✨"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["🍵","😌"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": ["🔋","😵"]
+        }
+      ]
+    },
+    {
+      "identifier": "5",
+      "name": " MR BEAN",
+      "publisher": " ഡിയോണിസം ",
+      "tray_image_file": "logo.png",
+      "publisher_email":"r3dliz4rd@hi2.in",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["🎉","✨"]
+        }
+      ]
+    },
+    {
+      "identifier": "9",
+      "name": "ദശമൂലം ദാമു",
+      "publisher": " ഡിയോണിസം ",
+      "tray_image_file": "logo.png",
+      "publisher_email":"r3dliz4rd@hi2.in",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["💻","🌃"]
+        }
+      ]
+    },
+    {
+      "identifier": "26",
+      "name": " മംഗ്ലീഷ് പാക്ക്",
+      "publisher": " ഡിയോണിസം ",
+      "tray_image_file": "logo.png",
+      "publisher_email":"r3dliz4rd@hi2.in",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😡","😠"]
+        }
+      ]
+    },
+    {
+      "identifier": "27",
+      "name": "GAME OF THRONES",
+      "publisher": "ഡിയോണിസം",
+      "tray_image_file": "logo.png",
+      "publisher_email":"r3dliz4rd@hi2.in",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["🎉","✨"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["🍵","😌"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["🔋","😵"]
+        }
+      ]
+    },
+    {
+      "identifier": "4",
+      "name": "CHE-GUEVARA",
+      "publisher": "ഡിയോണിസം",
+      "tray_image_file": "logo.png",
+      "publisher_email":"r3dliz4rd@hi2.in",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["🎉","✨"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["🍵","😌"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["🔋","😵"]
+        }
+      ]
+    },
+	{
+      "identifier": "6",
+      "name": "COUPLE IN LOVE",
+      "publisher": " ഡിയോണിസം",
+      "tray_image_file": "logo.png",
+      "publisher_email":"r3dliz4rd@hi2.in",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["🎉","✨"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["🍵","😌"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": ["🔋","😵"]
+        }
+		]
+    },
+	{
+      "identifier": "10",
+      "name": "SUNNY LEONE",
+      "publisher": "ഡിയോണിസം ",
+      "tray_image_file": "logo.png",
+      "publisher_email":"r3dliz4rd@hi2.in",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["🎉","✨"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["🍵","😌"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": ["🔋","😵"]
+        }
+      ]
+    }
+  ]
+}
